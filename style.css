@@ -1,0 +1,12 @@
+/* Styling the Canvas */
+canvas {
+    background: #ffec80;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Styling the entire webpage */
+* {
+    padding: 0;
+    margin: 0;
+}
